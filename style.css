@@ -1,0 +1,15 @@
+.container {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .invalid-feedback {
+    color: red;
+    font-size: small;
+  }
+  
+  .invalid {
+    border-color: red;
+  }
+  
